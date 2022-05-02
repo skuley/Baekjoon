@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# jupyter dir + file
+test/
+*.ipynb
+
+# Pycharm
+.idea
